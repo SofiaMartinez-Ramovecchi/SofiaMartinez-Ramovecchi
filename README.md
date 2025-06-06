@@ -38,11 +38,11 @@
 ---
 
 ### 📈 GitHub Stats:
-![Sofia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofia-martinez&show_icons=true&theme=dracula)
+![Sofia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SofiaMartinez-Ramovecchi&show_icons=true&theme=dracula)
 
 ---
 
 ### 📬 ¿Te gustaría conectar?
-💼 LinkedIn: [TuEnlaceAquí]  
-🌐 Portfolio: [TuWebAquí]  
-📧 sofia@example.com
+💼 LinkedIn: [[TuEnlaceAquí] ](https://www.linkedin.com/in/sofia-sonia-martinez-ramovecchi/) 
+ 
+📧 zunildaramivecchi@gmail.com
