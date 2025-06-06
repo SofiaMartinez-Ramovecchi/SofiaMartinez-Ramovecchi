@@ -13,16 +13,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40"/>
-  <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efb9bf7844.png" alt="bitbucket" width="40"/>
+  <img src="https://w7.pngwing.com/pngs/31/315/png-transparent-bitbucket-logo-atlassian-source-code-management-software-repository-git-hub-text-trademark-logo.png" alt="bitbucket" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/>
   <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40"/>
-  <img src="https://www.svgrepo.com/show/353821/terraform.svg" alt="terraform" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40"/>
   <img src="https://img.shields.io/badge/ZSH-89e051?style=flat&logo=gnu-bash&logoColor=white" alt="zsh" />
   <img src="https://img.shields.io/badge/PSH-5391FE?style=flat&logo=powershell&logoColor=white" alt="psh" />
 </p>
@@ -47,4 +47,3 @@
 💼 LinkedIn: [TuEnlaceAquí]  
 🌐 Portfolio: [TuWebAquí]  
 📧 sofia@example.com
-
