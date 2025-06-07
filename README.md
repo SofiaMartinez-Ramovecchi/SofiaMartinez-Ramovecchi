@@ -3,7 +3,7 @@
 
 ---
 
-🎯 Apasionada por crear soluciones eficientes y escalables. Manejo tanto el frontend como el backend, con enfoque en buenas prácticas, principios SOLID, y paradigmas de programación funcional y orientada a objetos.
+🎯 Apasionada por crear soluciones eficientes y escalables. Soy desarrolladora backend y estoy incurcionando en fullstack con conocimientos de devOps, testing y frontend, con enfoque en buenas prácticas, principios SOLID, y paradigmas de programación funcional y orientada a objetos.
 
 ---
 
