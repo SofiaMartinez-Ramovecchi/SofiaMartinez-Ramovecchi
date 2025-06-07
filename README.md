@@ -43,6 +43,6 @@
 ---
 
 ### 📬 ¿Te gustaría conectar?
-💼 LinkedIn: [[TuEnlaceAquí] ](https://www.linkedin.com/in/sofia-sonia-martinez-ramovecchi/) 
+💼 LinkedIn: [[LinkedIn: Sofia Martinez] ](https://www.linkedin.com/in/sofia-sonia-martinez-ramovecchi/) 
  
 📧 zunildaramivecchi@gmail.com
